@@ -63,7 +63,9 @@ body {
     border-radius: 4px;
     font-size: 30px;
 }
-
+.op{
+  background-color: aqua;  
+}
 .span-two {
     
     background-color: rgb(188, 50, 50);
